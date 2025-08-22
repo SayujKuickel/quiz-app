@@ -1,0 +1,2 @@
+MONGO_URI='mongodb+srv://sayuj:sayuj@cluster0.opw8nq1.mongodb.net/'
+AUTH_SECRET_KEY="15b649c98f006441ef8cc8ea0f24c58533044e4dbdaf6c547b976d37758139360a2ccc25"

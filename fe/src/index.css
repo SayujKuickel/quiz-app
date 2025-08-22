@@ -1,0 +1,10 @@
+.my-info {
+  background: purple;
+  padding: 1rem;
+
+}
+
+p,
+input {
+  margin: 5px;
+}
